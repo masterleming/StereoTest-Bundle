@@ -1,0 +1,6 @@
+[submodule "undistortedCam"]
+	path = undistortedCam
+	url = https://github.com/masterleming/undistortedCam.git
+[submodule "picGrabber"]
+	path = picGrabber
+	url = https://github.com/masterleming/picGrabber.git
